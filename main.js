@@ -1,0 +1,1 @@
+alert("This site is making your visit better by cookies, allow them by clicking the ok button.")
